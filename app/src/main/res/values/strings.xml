@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MusicPlayerDemo</string>
+    <string name="playMusic">play</string>
+    <string name="pauseMusic">pause</string>
+    <string name="addVolume">+</string>
+    <string name="minusVolume">-</string>
+    <string name="goToMiddle">go to middle</string>
 </resources>
